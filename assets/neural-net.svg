@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" width="760" height="250" role="img" aria-label="Animated neural network with data pulses flowing from input to retrieval, reasoning and action" xmlns:c2pa="http://c2pa.org/manifest">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0f1a"/><stop offset="1" stop-color="#150d2e"/></linearGradient>
+<linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00d4ff"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+<radialGradient id="nd"><stop offset="0" stop-color="#ffffff"/><stop offset="0.4" stop-color="#00d4ff"/><stop offset="1" stop-color="#7c3aed"/></radialGradient></defs>
+<style>.flow{stroke-dasharray:4 10;animation:dash 2.2s linear infinite}@keyframes dash{to{stroke-dashoffset:-56}}
+.node{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-in-out infinite}@keyframes pulse{0%,100%{transform:scale(1);opacity:.75}50%{transform:scale(1.35);opacity:1}}
+.lbl{font:600 11px monospace;letter-spacing:3px;fill:#7dd3fc;opacity:.8}</style>
+<rect width="760" height="250" rx="16" fill="url(#bg)"/>
+<line x1="110" y1="50" x2="290" y2="35" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="50" x2="290" y2="75" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="50" x2="290" y2="115" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="50" x2="290" y2="155" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="50" x2="290" y2="195" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="95" x2="290" y2="35" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="95" x2="290" y2="75" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="95" x2="290" y2="115" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="95" x2="290" y2="155" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="95" x2="290" y2="195" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="140" x2="290" y2="35" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="140" x2="290" y2="75" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="140" x2="290" y2="115" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="140" x2="290" y2="155" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="140" x2="290" y2="195" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="185" x2="290" y2="35" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="185" x2="290" y2="75" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="185" x2="290" y2="115" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="185" x2="290" y2="155" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="110" y1="185" x2="290" y2="195" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="35" x2="470" y2="35" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="35" x2="470" y2="75" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="35" x2="470" y2="115" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="35" x2="470" y2="155" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="35" x2="470" y2="195" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="75" x2="470" y2="35" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="75" x2="470" y2="75" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="75" x2="470" y2="115" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="75" x2="470" y2="155" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="75" x2="470" y2="195" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="115" x2="470" y2="35" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="115" x2="470" y2="75" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="115" x2="470" y2="115" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="115" x2="470" y2="155" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="115" x2="470" y2="195" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="155" x2="470" y2="35" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="155" x2="470" y2="75" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="155" x2="470" y2="115" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="155" x2="470" y2="155" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="155" x2="470" y2="195" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="195" x2="470" y2="35" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="195" x2="470" y2="75" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="195" x2="470" y2="115" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="195" x2="470" y2="155" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="290" y1="195" x2="470" y2="195" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="470" y1="35" x2="650" y2="70" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="470" y1="35" x2="650" y2="120" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="470" y1="35" x2="650" y2="170" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="470" y1="75" x2="650" y2="70" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="470" y1="75" x2="650" y2="120" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="470" y1="75" x2="650" y2="170" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="470" y1="115" x2="650" y2="70" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="470" y1="115" x2="650" y2="120" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="470" y1="115" x2="650" y2="170" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="470" y1="155" x2="650" y2="70" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="470" y1="155" x2="650" y2="120" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="470" y1="155" x2="650" y2="170" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="470" y1="195" x2="650" y2="70" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="470" y1="195" x2="650" y2="120" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="470" y1="195" x2="650" y2="170" stroke="url(#ln)" stroke-opacity="0.18" stroke-width="1"/>
+<line class="flow" style="animation-delay:0.0s" x1="110" y1="50" x2="290" y2="35" stroke="#00d4ff" stroke-opacity="0.7" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:0.3s" x1="110" y1="95" x2="290" y2="115" stroke="#00d4ff" stroke-opacity="0.7" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:0.6s" x1="110" y1="140" x2="290" y2="195" stroke="#00d4ff" stroke-opacity="0.7" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:0.9s" x1="110" y1="185" x2="290" y2="75" stroke="#00d4ff" stroke-opacity="0.7" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:1.2s" x1="290" y1="35" x2="470" y2="75" stroke="#00d4ff" stroke-opacity="0.7" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:1.5s" x1="290" y1="75" x2="470" y2="155" stroke="#00d4ff" stroke-opacity="0.7" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:1.8s" x1="290" y1="115" x2="470" y2="35" stroke="#00d4ff" stroke-opacity="0.7" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:0.0s" x1="290" y1="155" x2="470" y2="115" stroke="#00d4ff" stroke-opacity="0.7" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:0.3s" x1="290" y1="195" x2="470" y2="195" stroke="#00d4ff" stroke-opacity="0.7" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:0.6s" x1="470" y1="35" x2="650" y2="170" stroke="#00d4ff" stroke-opacity="0.7" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:0.9s" x1="470" y1="75" x2="650" y2="120" stroke="#00d4ff" stroke-opacity="0.7" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:1.2s" x1="470" y1="115" x2="650" y2="70" stroke="#00d4ff" stroke-opacity="0.7" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:1.5s" x1="470" y1="155" x2="650" y2="170" stroke="#00d4ff" stroke-opacity="0.7" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:1.8s" x1="470" y1="195" x2="650" y2="120" stroke="#00d4ff" stroke-opacity="0.7" stroke-width="1.5"/>
+<circle class="node" style="animation-delay:0.00s" cx="110" cy="50" r="7" fill="url(#nd)"/>
+<circle class="node" style="animation-delay:0.25s" cx="110" cy="95" r="7" fill="url(#nd)"/>
+<circle class="node" style="animation-delay:0.50s" cx="110" cy="140" r="7" fill="url(#nd)"/>
+<circle class="node" style="animation-delay:0.75s" cx="110" cy="185" r="7" fill="url(#nd)"/>
+<circle class="node" style="animation-delay:1.00s" cx="290" cy="35" r="7" fill="url(#nd)"/>
+<circle class="node" style="animation-delay:1.25s" cx="290" cy="75" r="7" fill="url(#nd)"/>
+<circle class="node" style="animation-delay:1.50s" cx="290" cy="115" r="7" fill="url(#nd)"/>
+<circle class="node" style="animation-delay:1.75s" cx="290" cy="155" r="7" fill="url(#nd)"/>
+<circle class="node" style="animation-delay:2.00s" cx="290" cy="195" r="7" fill="url(#nd)"/>
+<circle class="node" style="animation-delay:0.00s" cx="470" cy="35" r="7" fill="url(#nd)"/>
+<circle class="node" style="animation-delay:0.25s" cx="470" cy="75" r="7" fill="url(#nd)"/>
+<circle class="node" style="animation-delay:0.50s" cx="470" cy="115" r="7" fill="url(#nd)"/>
+<circle class="node" style="animation-delay:0.75s" cx="470" cy="155" r="7" fill="url(#nd)"/>
+<circle class="node" style="animation-delay:1.00s" cx="470" cy="195" r="7" fill="url(#nd)"/>
+<circle class="node" style="animation-delay:1.25s" cx="650" cy="70" r="7" fill="url(#nd)"/>
+<circle class="node" style="animation-delay:1.50s" cx="650" cy="120" r="7" fill="url(#nd)"/>
+<circle class="node" style="animation-delay:1.75s" cx="650" cy="170" r="7" fill="url(#nd)"/>
+<text class="lbl" x="110" y="236" text-anchor="middle">INPUT</text>
+<text class="lbl" x="290" y="236" text-anchor="middle">RETRIEVE</text>
+<text class="lbl" x="470" y="236" text-anchor="middle">REASON</text>
+<text class="lbl" x="650" y="236" text-anchor="middle">ACT</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1MjQ5ZmViNi0xMmNkLTQ5ZGEtYmFlOC05NjZhYmU5YTVlMjIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaNMfihkGzRheQ2aztIpMGwsAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0MTg0NGUwZS02N2FlLTQ1NTctYWEzYS1kNjhkYzgyMjE0MGZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoAlcR0rYI0cTf38zytSZuXAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggi8rJ3a2JSwuSgYjTkhUmq5+pRVZIE0JaL9qNbq9oh3qkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaFVRfm+p888VQiOFjEyHhcsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIE57O3i6zkcSLVdR4dzRVGQZarpEimGo51WHOjTMSWagZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GSsXZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjUyNDlmZWI2LTEyY2QtNDlkYS1iYWU4LTk2NmFiZTlhNWUyMi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjdhOGRjOThjLTA0MjEtNDFiYS04MDE2LWJiOTBjMTcxNjE0M3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCLysndrYlLC5KBiNOSFSarn6lFVkgTQlov2o1ur2iHeqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggF0Hz9fhVLpd1OtI1TPkCWswToFs6v786EwMSZFXv+JeiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggCDVPMtZBLzmXQcZ9rMnSgNL/1JM0urrx03nDhr4KMUh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQBRTpcuFO6lj1hXgpSC1ptbHGnpiZL5in7s0HR5EmlNIOfZB5+2bNbJS1VLqcAxusgKw/jhvIZxCcVyFURFQ3v0=</c2pa:manifest></metadata></svg>
